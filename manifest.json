@@ -1,5 +1,34 @@
 {
-  "deps_version": null,
-  "repo": "dicroce/revere-deps",
-  "deps": {}
+    "deps_version":  "windows-deps-v1",
+    "repo":  "dicroce/revere-deps",
+    "deps":  {
+                 "opencv":  {
+                                "version":  "opencv-install",
+                                "file":  "opencv-win64.zip",
+                                "size":  99073097,
+                                "sha256":  "28e0bcd9c9e344772ea324e500d93e18031a4f780cbaa79e02fdfdefa19adae6",
+                                "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/opencv-win64.zip"
+                            },
+                 "gstreamer":  {
+                                   "version":  "gstreamer-install",
+                                   "file":  "gstreamer-win64.zip",
+                                   "size":  310385101,
+                                   "sha256":  "e1b9c9ff30914b1cc91582d5badccf16b18ab30eaca0a7e9ea364faf347a1763",
+                                   "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/gstreamer-win64.zip"
+                               },
+                 "ffmpeg":  {
+                                "version":  "ffmpeg-master-latest-win64-gpl-shared",
+                                "file":  "ffmpeg-win64.zip",
+                                "size":  66915696,
+                                "sha256":  "23de9e8ee925ddf43f74ec0cf1643d22416a30f8e0970ec0cc74ecf44fd30996",
+                                "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/ffmpeg-win64.zip"
+                            },
+                 "ncnn":  {
+                              "version":  "NCNN_INSTALL",
+                              "file":  "ncnn-win64.zip",
+                              "size":  13028389,
+                              "sha256":  "3272c640abf2280181192fb4aadd462437f7724d25ebb53960e5425f6b50c1ce",
+                              "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/ncnn-win64.zip"
+                          }
+             }
 }
