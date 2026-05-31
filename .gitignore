@@ -1,0 +1,3 @@
+# Local staging area for built zips — never committed (assets live on Releases).
+_work/
+*.zip
