@@ -1,5 +1,5 @@
 {
-    "deps_version":  "windows-deps-v1",
+    "deps_version":  "windows-deps-v2",
     "repo":  "dicroce/revere-deps",
     "deps":  {
                  "opencv":  {
@@ -17,11 +17,11 @@
                                    "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/gstreamer-win64.zip"
                                },
                  "ffmpeg":  {
-                                "version":  "ffmpeg-master-latest-win64-gpl-shared",
+                                "version":  "ffmpeg-n8.1-latest-win64-lgpl-shared-8.1",
                                 "file":  "ffmpeg-win64.zip",
-                                "size":  66915696,
-                                "sha256":  "23de9e8ee925ddf43f74ec0cf1643d22416a30f8e0970ec0cc74ecf44fd30996",
-                                "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v1/ffmpeg-win64.zip"
+                                "size":  80646903,
+                                "sha256":  "d2b4b1b0b892035602c08da8595a7d90fc3bce06b7397778374da1dfe52b2ba9",
+                                "url":  "https://github.com/dicroce/revere-deps/releases/download/windows-deps-v2/ffmpeg-win64.zip"
                             },
                  "ncnn":  {
                               "version":  "NCNN_INSTALL",
